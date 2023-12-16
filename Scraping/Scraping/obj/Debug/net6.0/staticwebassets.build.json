@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fUZDRUtSQUUsMkH4xF+9Hmg2GXCrcIr1s6B5RSd1ECk=",
+  "Source": "Scraping",
+  "BasePath": "_content/Scraping",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

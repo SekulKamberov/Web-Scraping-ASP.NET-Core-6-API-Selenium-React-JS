@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8VkCSf1HLK8E1XXY9yhDYnWjhCQuGo8D3jR0L9+nGFot48dv7lvsBY/82rg3cDDNc+scvx+CIR14kNcAW3ZkMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sekne\\Documents\\SBe4ko\\Angular16-ASP.NET-Core-API-SignalR-EndlessGame-calculations\\Scraping\\Scraping\\Scraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sekne\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
