@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8VkCSf1HLK8E1XXY9yhDYnWjhCQuGo8D3jR0L9+nGFot48dv7lvsBY/82rg3cDDNc+scvx+CIR14kNcAW3ZkMw==",
+  "dgSpecHash": "Xj4ijamXD9APDWbdKIxx9U8pSCYR5Ld33nOjP6wC9z3nYAPN5c1efgeQmjRuzR3G6V8v5k3m8loin1zY4Ysc5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sekne\\Documents\\SBe4ko\\Angular16-ASP.NET-Core-API-SignalR-EndlessGame-calculations\\Scraping\\Scraping\\Scraping.csproj",
+  "projectFilePath": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\Web-Scraping-ASP.NET-Core-6-API-Selenium-React-JS\\Scraping\\Scraping\\Scraping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sekne\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\sekne\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

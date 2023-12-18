@@ -17,8 +17,8 @@ namespace Scraping.Controllers
         [HttpPost] 
         public async Task<IActionResult> Webscraping([FromBody] BindingModel value)
         {
-            if (string.IsNullOrEmpty(value.Webaddress))
-                throw new ArgumentNullException(nameof(value));
+            //if (string.IsNullOrEmpty(value.Webaddress))
+            //    throw new ArgumentNullException(nameof(value));
 
             var result = new Drink();
             try
