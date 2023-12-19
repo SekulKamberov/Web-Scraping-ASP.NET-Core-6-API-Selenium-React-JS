@@ -72,3 +72,4 @@ C:\Users\sekne\OneDrive\Documents\GitHub\Web-Scraping-ASP.NET-Core-6-API-Seleniu
 C:\Users\sekne\OneDrive\Documents\GitHub\Web-Scraping-ASP.NET-Core-6-API-Selenium-React-JS\Scraping\Scraping\obj\Debug\net6.0\Scraping.pdb
 C:\Users\sekne\OneDrive\Documents\GitHub\Web-Scraping-ASP.NET-Core-6-API-Selenium-React-JS\Scraping\Scraping\obj\Debug\net6.0\Scraping.genruntimeconfig.cache
 C:\Users\sekne\OneDrive\Documents\GitHub\Web-Scraping-ASP.NET-Core-6-API-Selenium-React-JS\Scraping\Scraping\obj\Debug\net6.0\ref\Scraping.dll
+C:\Users\sekne\OneDrive\Documents\GitHub\Web-Scraping-ASP.NET-Core-6-API-Selenium-React-JS\Scraping\Scraping\bin\Debug\net6.0\HtmlAgilityPack.dll

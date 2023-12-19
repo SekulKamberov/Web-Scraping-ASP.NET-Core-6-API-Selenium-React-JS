@@ -8,11 +8,20 @@
     ".NETCoreApp,Version=v6.0": {
       "Scraping/1.0.0": {
         "dependencies": {
+          "HtmlAgilityPack": "1.11.55",
           "Selenium.WebDriver": "4.16.2",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
           "Scraping.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.55": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.55.0",
+            "fileVersion": "1.11.55.0"
+          }
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
@@ -88,6 +97,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.55": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aIAIUltlMf3S5gldT88UHV70DFkNf86YjjoFNNCXAfSwlHtYu3Oj+FB0xqUB8UlrDSVhYjJFY0VqL1IrcHGiZg==",
+      "path": "htmlagilitypack/1.11.55",
+      "hashPath": "htmlagilitypack.1.11.55.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "type": "package",

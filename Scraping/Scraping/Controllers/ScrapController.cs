@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using HtmlAgilityPack;
+using Microsoft.AspNetCore.Mvc;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using Scraping.Models;
@@ -85,5 +86,28 @@ namespace Scraping.Controllers
 
             return Ok(result);
         }
+
+        static HtmlDocument GetDoc(string url)
+        {
+            HtmlWeb web = new HtmlWeb();
+            HtmlDocument doc = web.Load(url);
+            return doc;
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> WebHtmlAgility(string url)
+        {
+            var result = new List<string>();    
+            HtmlDocument doc = GetDoc(url);      
+            HtmlNodeCollection nodes = doc.DocumentNode.SelectNodes("//div.d-block");
+            ///html/body/div[2]/div/div[2]/div[1]     div.d-block
+            foreach (var node in nodes)
+            {
+                string a = node.Attributes["a"].Value;
+                result.Add(a);
+            }
+            return Ok(result);   
+        }
+
     }
 }
